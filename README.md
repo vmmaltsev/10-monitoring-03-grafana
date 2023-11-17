@@ -87,6 +87,7 @@ node_filesystem_free_bytes{fstype!="tmpfs", mountpoint!="/boot"}
 
 Ответ:
 
+```
 {
   "annotations": {
     "list": [
@@ -695,3 +696,4 @@ node_filesystem_free_bytes{fstype!="tmpfs", mountpoint!="/boot"}
   "uid": "n-bwK1SIk",
   "version": 6
 }
+```
